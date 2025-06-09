@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syarif Muhammad Alhaiza</h1>
-<h3 align="center">A Fullstack Web Developer passionate about elegant code & meaningful impact.</h3>
+<h3 align="center">Passionate Fullstack Web Developer | Continuously Improving</h3>
 
 <p align="center">
   <a href="https://alhaiza-website.vercel.app" target="_blank">
