@@ -12,9 +12,9 @@
 ### 🔧 Projects & Focus
 
 - 🔭 Currently building: **Intern Management App – Informatics Department, Tanjungpura University**  
-- 🌱 Learning: `Laravel`, `Bootstrap`, `Tailwind`, `React`  
+- 🌱 Learning: `Laravel`, `Bootstrap`, `Tailwind`, `React`, `Figma`
 - 👯 Open to collaborate on: Laravel-based or fullstack projects  
-- 💬 Ask me about: `Laravel`, `React`, `Vue`, `GSAP`  
+- 💬 Ask me about: `Laravel`, `React`, `Web Development`  
 - 📫 Reach me at: **alqadrihaiza@gmail.com**  
 - 👨‍💻 Portfolio: [alhaiza-website.vercel.app](https://alhaiza-website.vercel.app)
 
