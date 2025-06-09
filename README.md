@@ -16,8 +16,7 @@
 - 👯 Open to collaborate on: Laravel-based or fullstack projects  
 - 💬 Ask me about: `Laravel`, `React`, `Vue`, `GSAP`  
 - 📫 Reach me at: **alqadrihaiza@gmail.com**  
-- 👨‍💻 Portfolio: [alhaiza-website.vercel.app](https://alhaiza-website.vercel.app)  
-- 📄 Resume: [See my experiences](https://alhaiza-website.vercel.app)  
+- 👨‍💻 Portfolio: [alhaiza-website.vercel.app](https://alhaiza-website.vercel.app)
 
 ---
 
@@ -60,8 +59,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alhaiza&theme=default" width="96%" />
 </p>
-
----
-
-### ⚡ Fun Fact
-I’m obsessed with pixel-perfect UI & smooth animation transitions 🎯
