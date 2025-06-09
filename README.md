@@ -33,7 +33,6 @@
 ---
 
 ### 🛠️ Tech Stack
-<h3 align="left">🛠️ Tech Stack</h3>
 <p align="left">
   <!-- Laravel PNG fallback -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40" style="margin-right: 10px;" />
